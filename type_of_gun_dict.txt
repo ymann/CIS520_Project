@@ -1,0 +1,710 @@
+	-1
+.40 caliber handgun	0
+Glock pistol	1
+Glock pistol 	2
+ .40 caliber handgun	3
+40 caliber handgun	4
+Glock	5
+.40 caliber handgun,	6
+ Glock pistol 	7
+40 caliber handgun,	8
+ .40 caliber	9
+9mm handgun	10
+ .40 caliber handgun,	11
+ semiautomatic handgun	12
+Glock 	13
+Glock pisto	14
+ Glock pistol	15
+semi-automatic handgun	16
+shotgun	17
+handgun	18
+bow and arrow	19
+caliber handgun,	20
+40 caliber 	21
+BB gun	22
+handguns	23
+22 caliber pistol	24
+hunting rifle	25
+ 22 caliber pistol	26
+BB	27
+assault rifle	28
+ powder burn	29
+.32 Long revolver	30
+ .32 Long revolver	31
+22-caliber rifle	32
+ 22 caliber pisto	33
+ .40-caliber handgun	34
+ 9-mm handgun 	35
+.40-caliber handgun	36
+a 22 caliber pistol	37
+rifle had an extended 30-round magazine	38
+ 20-guage shotgun.	39
+20-guage shotgun	40
+22 caliber pistol.	41
+handguns 	42
+ gunshot 	43
+ 22 caliber pistol.	44
+ 22 caliber pistol. 	45
+gray handgun	46
+handgun 	47
+ assault rifle 	48
+ AR-15 	49
+9mm	50
+firearms 	51
+gunshot 	52
+nail gun	53
+unregistered handgun 	54
+semiautomatic handgun	55
+22 caliber pistol. 	56
+semi-automatic pistol	57
+.40 caliber Smith and Wesson	58
+ handgun	59
+ 22-caliber rifle	60
+black revolver	61
+ pistol	62
+Taurus Model 85 5-shot revolver	63
+9-mm handgun	64
+chrome-top pistol.	65
+Taurus Model 85	66
+black semiautomatic handgun	67
+45-caliber gun 	68
+45-caliber gu	69
+22 caliber 	70
+pistol 	71
+powder burn on his hand	72
+a BB gun that looked like a revolver.	73
+.22 rifle 	74
+22 caliber pisto	75
+gunshot wound	76
+.32 Long revolver,	77
+.40-caliber pistol 	78
+.22 caliber revolver	79
+22 caliber revolver	80
+40-caliber handgun	81
+pistols 	82
+.38 caliber semi-automatic handgun	83
+9mm 	84
+pistol	85
+ pistols 	86
+gunshot wound 	87
+gunshot	88
+22 caliber	89
+12 gauge shotgun and a 7mm rifle	90
+12 gauge shotgun.	91
+two shot	92
+ pump-style rifle 	93
+ shooting scene	94
+powder burn	95
+.40-caliber	96
+ .40 caliber Smith & Wesson handgun	97
+pellet gun	98
+9-mm handgun 	99
+22 caliber pist	100
+airsoft pellet gun	101
+.40 caliber Smith & Wesson handgun	102
+revolver	103
+ shot	104
+ submachine gun	105
+personal firearm	106
+short barrel rifle 	107
+Kalashnikov	108
+.380 handgun 	109
+Taurus .357-caliber Magnum 	110
+ semi-automatic handgun	111
+.40-caliber pistol	112
+not released 	113
+a pellet gun that looked like a real handgun	114
+AR-15 patrol rifle	115
+.25 caliber handgun	116
+have not released	117
+.40 caliber	118
+ BB gun	119
+AR-15s 	120
+.22 caliber semi-automatic rifle	121
+22 caliber semi-automatic rifle	122
+two .223-caliber rifles and two pistols	123
+assault-style rifles and handguns	124
+.22 rifle	125
+ chrome 9 mm handgun	126
+chrome 9 mm handgun	127
+9mm Ruger	128
+9-millimeter and .22-caliber handguns	129
+Hi-point 40-caliber semi-automatic handgun	130
+AR15 	131
+Taurus ACP .380	132
+22	133
+gunshot wound to his abdomen 	134
+.22 caliber pistol and a .380 handgun	135
+rifle	136
+shot by one officer	137
+Colorado	138
+.20 gauge shotgun	139
+22-caliber semi-automatic	140
+Colt .45	141
+.40-caliber 	142
+TEC-9	143
+ rifle	144
+rifle 	145
+40-caliber pistol	146
+powder burn on his hand,	147
+.22-caliber rifle 	148
+assault-style rifles and handguns. A law enforcement official told CNN the rifles were AR-15s or similar style weapons	149
+9 mm	150
+ .22 caliber pistol and a .380 handgun	151
+9 mm 	152
+.22 caliber handgun	153
+automatic-style rifles	154
+pisto	155
+AK-47 gun 	156
+weapon	157
+powder	158
+airsoft BB gun	159
+Five pistols and one rifle	160
+ Five pistols and one rifle	161
+semi-auto handgun 	162
+ A black revolver	163
+a .22 caliber pistol and a .380 handgun	164
+.22-caliber rifle	165
+M-4 rifles	166
+ gunmen 	167
+taser	168
+ .40 caliber Glock handgun	169
+home-made rifle	170
+officer's weapon	171
+.45-caliber	172
+9 mm handgun	173
+long gun	174
+.45-caliber weapon	175
+ gun	176
+ .22 caliber revolver	177
+"assault-style" weapo	178
+9mm semi-automatic handgun	179
+a semi-automatic pistol	180
+emi-automatic pistol	181
+semiautomatic pistol 	182
+police firearms	183
+semiautomatic rifle	184
+ service weapon	185
+.40 caliber pistol	186
+ not released	187
+ a long rifle,	188
+ gunshot	189
+ semiautomatic rifle	190
+ pellet gun	191
+country-made pistol	192
+AR-15 rifle	193
+ rifle or shotgun	194
+.44 Smith & Wesson six-shooter	195
+shotgun 	196
+9MM pistol	197
+a rifle	198
+ handgun 	199
+9mm Ruger pistol	200
+revolver 	201
+ rifle 	202
+Smith and Wesson .40 caliber	203
+Smith and Wesson .40 caliber gun	204
+powder 	205
+caliber 	206
+.357 revolver	207
+ long rifle	208
+SKS-type assault rifle	209
+AR-15	210
+9 millimeter glock	211
+.25-caliber pistol,	212
+semiautomatic pistol	213
+‘black machine gun’	214
+ semiautomatic gun	215
+gunfire	216
+Smith and Wesson handgun	217
+ .22 caliber handgun	218
+AR-15 	219
+airsoft pistol 	220
+40 pistol 	221
+.357 Magnum revolver	222
+pellet	223
+ 22 caliber 	224
+.22-caliber semi-automatic	225
+.38 caliber revolver	226
+shooting happened	227
+.22-caliber pistol	228
+AK-47	229
+semi-automatic pisto	230
+Pellet	231
+gun	232
+ .45 caliber 	233
+12-gauge	234
+.22 caliber handgun 	235
+.223-caliber rifles	236
+semi-automatic BB gun	237
+looked like a pellet gun	238
+realistic-looking pellet rifle 	239
+Glock handgun, said to be ten millimeter in caliber by eyewitnesses	240
+semi-automatic rifle	241
+black handgun	242
+Glock handgun, said to be ten millimeter	243
+assault rifle, handgun	244
+SKS rifle	245
+gunmen 	246
+45-caliber gun	247
+.380 caliber handgun	248
+22-caliber pistol	249
+.40-caliber duty firearm	250
+.40 caliber 	251
+9mm pistol	252
+A .9mm handgun	253
+small silver handgun	254
+AR-15 assault rifle	255
+ilson was struck with a combination of .40-caliber handgun ammunition and .22-caliber rifle ammunition.	256
+handgun and rifles	257
+loaded handgun	258
+a 9mm Taurus semi-automatic	259
+.32-caliber handgun	260
+ fully automatic Uzi	261
+Stray Bullet	262
+.22-caliber 	263
+.38-caliber revolver 	264
+ 9 mm handgun 	265
+a gun	266
+automatic weapon	267
+large-caliber handgun	268
+a 9 mm semi-automatic pistol and a "high-powered assault rifle."	269
+22-caliber revolver	270
+high-powered rifle	271
+large rifle	272
+ pistol 	273
+automatic pistol	274
+high-powered handgun and an assault rifle	275
+a .45 caliber pistol	276
+9 mm pistol	277
+duty weapon	278
+22-caliber handgun	279
+semi-automatic weapon 	280
+AK-47-style gun or one of two Tec-9 machine pistols	281
+9mm semi-automatic	282
+.380-caliber semi-automatic handgun 	283
+ 40-caliber handgun	284
+AR-15 assault rifle 	285
+ handguns	286
+Glock 9mm	287
+not sure	288
+ flare-gun	289
+Police have not released	290
+.45 caliber Ruger pistol	291
+40-caliber semi-automatic handgun	292
+.32 caliber revolver	293
+40 caliber Glock semi-automatic handgun	294
+concealed handgun	295
+.38 caliber pistol	296
+ .38-caliber revolver	297
+ handgun,	298
+Smith and Wesson .40 caliber gun.	299
+not released	300
+gunman	301
+.38-caliber revolver	302
+9-millimeter handgun 	303
+.38-caliber 	304
+unknown	305
+.45-caliber handgun	306
+9 mm Glock pistol and .308 caliber bolt-action scoped rifle	307
+ 9mm handgun	308
+A box of ammunition	309
+Several weapons, including a rifle	310
+silver semiautomatic pistol 	311
+9mm handgun 	312
+a loaded gun	313
+Smith and Wesson .22LR semi-automatic handgun 	314
+black powder gun	315
+.357 Magnum	316
+ 9mm Glock handgun	317
+nine millimeter handgun	318
+ a gun	319
+.380-caliber	320
+Hi-Point .40 caliber semiautomatic pistol	321
+44 magnum	322
+service weapon 	323
+two 	324
+AK-47, a .12 gauge shot gun and two handguns	325
+muzzleloader rifle	326
+gun 	327
+sawed-off shot gun	328
+40 caliber spent shell casings as well as 9mm spent shell casings	329
+small-caliber	330
+Glock 19-semiautomatic	331
+.45-caliber revolver	332
+possible powder burn on his hand	333
+ .380 handgun 	334
+.45 caliber handgun 	335
+.22-caliber semiautomatic Ruger handgun	336
+.380 pistol	337
+rifles	338
+ possible powder burn on his hand	339
+firearm	340
+black powder gun, almost like a musket	341
+“sounded like machine guns”	342
+ dark semi-automatic handgun	343
+pistols	344
+4 different weapons	345
+9-mm, .22-caliber and .40-caliber.	346
+ 	347
+small-caliber rifle	348
+rifle or handgun	349
+.40 caliber semi-automatic handgun	350
+unclear what kind of gun Roof allegedly used in the attack, but Cowles tells the paper Roof got a .45-caliber	351
+Taurus .38 Special	352
+.40 caliber pistols	353
+10-millimeter 	354
+Rossi .357 magnum revolver	355
+357-magnum handgun	356
+.45-caliber pistol	357
+Colt AR-15	358
+ officer removes his gun from his holster	359
+shotgun.	360
+Glock .40 mm handgun	361
+small caliber handgun	362
+large-caliber firearm	363
+ duty weapon,	364
+9-millimeter handgun	365
+ duty weapon	366
+semi-automatic weapon	367
+ powder	368
+a gunshot	369
+ not released 	370
+small-caliber gun	371
+medium-caliber handgun	372
+ shotgun	373
+small caliber gun	374
+chrome-plated revolver 	375
+.30-30 rifle	376
+A .380 semi-automatic firearm	377
+ assault rifle-type 	378
+pulled out a gun	379
+ concealed firearm	380
+30-06 rifle	381
+“long guns	382
+.17 caliber revolver	383
+stolen	384
+.40-caliber Smith and Wesson handgun	385
+ .40 	386
+multiple rounds 	387
+Crosman pellet gun	388
+possible powder burn	389
+truck	390
+ 22 caliber	391
+caliber pistol	392
+caliber	393
+gunman 	394
+eeds	395
+.40 caliber Sig Sauer pistol	396
+ high-powered assault rifle	397
+black-colored handgun	398
+sidearm	399
+state trooper’s weapon	400
+Colt .45 handgun	401
+three weapons from the scene: a semi-automatic .223 Bushmaster rifle, a Glock and a Sig Sauer	402
+a .40 caliber Glock 27	403
+K-9 	404
+.45 caliber	405
+428 	406
+edi	407
+ AK-47	408
+ not yet identified	409
+ airsoft pellet gun	410
+ Airsoft gun	411
+airsoft gun	412
+shot 	413
+45-caliber pistol	414
+two different caliber	415
+at least two different caliber guns	416
+a pistol	417
+.45 caliber handgun	418
+black pistol	419
+22 	420
+scrutiny 	421
+BB gun or Airsoft rifle	422
+12-gauge shotgun	423
+Clear this highlight 
+Type Of Gun
+Numer Of Shots Fired
+Read the text carefully. Please highlight the parts of the text that correspond with the information below, if they exist. For example, if the text mentions that the shooting was on the afternoon of Saturday May 26th, please highlight "afternoon" and select "time of day".
+
+Step 7/7
+Please read the instructions before you start working on this HIT   
+PUBLICATION DATE: 7/28/2014Bridgeport man murdered in 9th homocide this year
+Bridgeport, Connecticut -- Christopher Pettway, the city's ninth homicide victim this year, was recalled Wednesday as ""a man with morals and values'' by a family friend. Ernest Newton III, the former state senator, said he knew Pettway's family well, ""and he came from a good family. They are religious people.'' Pettway died in the hospital as a result of injuries from the shooting near Reservoir and Trumbull avenues at about 2:30 p.m. Tuesday, July 29th, police said. Pettway was only 26 years old when he passed. ""I grew up with his mother and father,'' Newton said. He had not spoken to Edward Pettway, Christopher's father, since the shooting, the family friend said. The Pettways are one of the city's largest families and Newton said he has talked to the dead man's cousins, ""who are taking this very hard, as you might imagine. It's another gunshot death. We have to make sure that we don't become another Hartford or New Haven.'' Kaempffer said the investigation was still ongoing. So far, it is known that 3 shots were fired using a 22 caliber pistol. Beyond that, Kaempffer said only that the police were ""following very strong leads,"" but did not release more de	424
+9mm handgun and possibly other firearms to include a 12 gauge shotgun and a 7mm rifle. 	425
+ fired two shots	426
+semi-automatic	427
+ 9 mm handgun	428
+Airsoft pistol 	429
+.390 handgun	430
+handgun and assault weapon 	431
+semi-automatic pistol 	432
+hand gun 	433
+9 mm gun	434
+two shots	435
+.38-caliber	436
+ .22 rifle	437
+12 gauge shotgun	438
+didn't find any weapons where Clark was shot 	439
+Airsoft pistol	440
+military-style semiautomatic rifle 	441
+military-style semiautomatic rifle	442
+fire shots	443
+2 caliber pistol	444
+stolen gun 	445
+Gunshots	446
+9mm Glock pistol	447
+.308 calibre rifle	448
+ air gun	449
+.22 - just a little semi-automatic pistol	450
+.22	451
+22 - just a little semi-automatic pistol 	452
+air-gun	453
+ partner fired	454
+automatic rifle	455
+Kalashnikov-type rifle	456
+small caliber	457
+INSA rifle	458
+AR-15 style semi-automatic rifle,	459
+air rifle	460
+INSAS rifle	461
+Beretta 9 mm	462
+using a 22 caliber pistol	463
+.40-caliber semiautomatic gun	464
+ .380-caliber	465
+9 mm semi-automatic handgun	466
+.45 caliber semi-automatic,	467
+one of the guns	468
+ with a gun	469
+.40mm handgun	470
+.45-caliber semi-automatic	471
+ black semi-automatic handgun.	472
+.22 caliber rifle	473
+recovered a handgun from the scene	474
+five-shot, .38 caliber handgun.	475
+.38 caliber handgun,	476
+38-caliber handgun	477
+the gun	478
+police are trying to determine	479
+his mother's gun	480
+officers	481
+HCSO issued handguns	482
+Glock 45	483
+shot	484
+mother's gun	485
+loaded gun	486
+.25-caliber	487
+small-caliber handgun	488
+ .40-caliber semiautomatic weapon	489
+ OK, this is the guy who got loaded into the truck, Alm said.	490
+1100	491
+countrymade weapon and a 7.65mm pistol	492
+small-caliber Glock handgun	493
+Winchester rifle	494
+pistol.	495
+SAWED-OFF SHOTGUN	496
+gunshot wound to his abdomen and what appeared to be a possible powder burn on his hand	497
+ country-made pistol	498
+ 22	499
+shooting 	500
+ .38 special blue steel revolver	501
+.38 Special	502
+three different guns	503
+ shotgun 	504
+semiautomatic weapon	505
+.22 caliber	506
+rile	507
+Smith & Wesson .40 pistol,	508
+.308 caliber rifle	509
+Remington 870 shotgun	510
+celebratory gunfire	511
+.45-caliber semiautomatic	512
+trooper’s gun 	513
+32cal Walter PPK. 1945 Semi Auto 	514
+.38 caliber Derringer pistol 	515
+a handgun 	516
+.22-caliber	517
+.9mm semi-automatic handgun	518
+Kel Tec .9mm semi-automatic	519
+air gun	520
+automatic Uzi	521
+ 40-caliber handgun 	522
+a handgun	523
+a stolen firearm	524
+.45-caliber semi-automatic handgun	525
+ hunting rifle	526
+.357 caliber Ruger stainless steel revolver 	527
+Glock 19 nine-millimeter black handgun 	528
+pump-action BB gun 	529
+high powered rifl	530
+an assault rifle	531
+assault-style long gun	532
+assault-style long gun.	533
+Springfield XD 	534
+emi-automatic handgun	535
+beanbag-like rounds being shot at the suspect	536
+ .45 caliber gun	537
+a firearm	538
+ semi-automatic rifle	539
+described the rifle as a semiautomatic, large caliber weapon	540
+small caliber firearm	541
+a 'long gun'	542
+silver handgun	543
+Lady Smith & Wesson	544
+Taurus 9-mm G2	545
+357 Taurus revolver	546
+service handgun	547
+.40 caliber Glock and 9mm Ruger	548
+handgun and rifle	549
+handgun and a rifle	550
+ Beretta semi-automatic handgun	551
+air soft guns	552
+a small caliber firearm	553
+a .22 caliber Ruger pistol	554
+38 revolver	555
+Smith & Wesson .45-caliber service revolver 	556
+long guns	557
+9 mm Taurus handgun	558
+possibly multiple long guns	559
+service weapon	560
+normal gun.	561
+T-56 assault rifle	562
+hunting	563
+.40 caliber Glock pistol 	564
+ T-56  assault rifle	565
+45/.410 revolver, a 12 gauge shotgun, a .22 caliber rifle with scope, a .22 caliber stainless rifle, a .22 caliber rifle with scope and bipod, a third .22 caliber rifle, a .223 caliber rifle, a 9 mm handgun, a .40 caliber handgun	566
+.32 mm revolver	567
+ .32 mm revolve	568
+ .22 Crosman Arms Co2 revolver	569
+.45 caliber Springfield model ‘X-D’ pistol	570
+the two passengers got out and were armed, the front passengers with a long gun and the other with a pistol.	571
+CO2 pistol	572
+armed with a machete	573
+ 9mm	574
+BB Gun	575
+45 caliber handgun	576
+Browning 9mm	577
+black .9-mm Kel-Tec	578
+Walther 9mm semi-automatic handgun	579
+Walther 9 mm handgun	580
+two guns	581
+Glock .380 semi-automatic pistol	582
+ .45-caliber handgun	583
+ semi-automatic handgun 	584
+.38 revolver	585
+silver revolver, possibly a .38 or .357 with a 4-inch barrel	586
+22-caliber gun	587
+.9mm service handgun	588
+9 mm Ruger	589
+.357 caliber handgun	590
+service revolver	591
+mm Glock pistol	592
+automatic weapons	593
+assault-style rifle	594
+.380-caliber gun	595
+silver .22-caliber pistol 	596
+stolen police weapon	597
+stolen police handgun	598
+Glock 27 .40-caliber handgun 	599
+Stoeger 357 revolver	600
+ revolver	601
+Ruger 9 	602
+Ruger 9 mm	603
+ large-caliber semiautomatic weapon	604
+large-caliber semiatutomatic weapon	605
+Ruger 10/22	606
+ "hunting type" rifle	607
+.22 pistol	608
+.40-caliber, semi-automatic pistol	609
+sawed-off shotgun	610
+.38 caliber handgun	611
+AK-47 assault rifle	612
+patrol rifle	613
+assault rifle 	614
+black handgun 	615
+38 caliber handgun	616
+silver pistol 	617
+380 caliber Hi-point semi-automatic handgun	618
+.38-caliber pistol	619
+.45 caliber pistol	620
+.45-caliber Glock	621
+Hi-Point 9mm pistol	622
+revolver-type handgun	623
+25-caliber	624
+9-mm semiautomatic	625
+Uzi	626
+ high-powered rifle	627
+.357 Magnum handgun	628
+.32-caliber semiautomatic 	629
+ 9mm Luger	630
+AK-47-style rifle	631
+ black handgun	632
+9mm subcompact handgun 	633
+45-caliber handgun	634
+shotgun or rifle	635
+9-mm firearm	636
+large caliber	637
+.32 mm	638
+ Bushmaster rifle	639
+.380 gun	640
+three different guns 	641
+Glock 26 	642
+22-caliber	643
+two calibers	644
+9 mm handgun 	645
+20-gauge double barrel shotgun	646
+12-bore gun 	647
+handgun and a shotgun	648
+ Glock .40 caliber pistol	649
+black revolver 	650
+.380-caliber pistol	651
+.38 special revolver	652
+.32-caliber weapon 	653
+two handguns	654
+380 semi-automatic handgun	655
+SKS-type rifle	656
+44-caliber revolver	657
+caliber handgun	658
+38 caliber	659
+.40-caliber semi-automatic handgun	660
+.45 caliber 	661
+22-caliber pellet gun	662
+automatic pistol 	663
+Smith & Wesson 9mm handgun	664
+9-millimeter	665
+semi-automatic gun	666
+.38 caliber 	667
+Glock 26 pistol	668
+Smith & Wesson 9mm	669
+multiple .40 caliber and 9mm	670
+.40 caliber Glock	671
+"hunting type" rifle. "	672
+45 caliber Smith and Wesson handgun	673
+small caliber hand gun	674
+Springfield Armory XD9 9mm pistol	675
+9mm Glock 17	676
+stolen police firearm	677
+semiautomatic 9mm Glock pistol 	678
+40mm handgun	679
+semiautomatic 9mm pistol 	680
+9mm pistol 	681
+Glock handgun	682
+hand gun	683
+Glock 27 .40-caliber	684
+.380 handgun	685
+Ruger Model SR9, 9mm semi-automatic pistol 	686
+38-caliber revolver	687
+.25 caliber	688
+small-caliber handgun, 	689
+9mm service handgun	690
+military-style semi-automatic rifle	691
+AR15 rifle	692
+.45-caliber handgun 	693
+patrol rifles 	694
+pistol or revolver	695
+.40-caliber weapon	696
+.380-caliber handgun	697
+service pistol	698
+handgun,	699
+380 caliber semi-automatic handgun	700
