@@ -1147,6 +1147,29 @@ void ssl_evaluate(struct vector_double *Outputs, struct vector_double *TrueLabel
   for(int i=0;i<Outputs->d;i++)
     accuracy+=(Outputs->vec[i]*TrueLabels->vec[i])>0;
   cout << "Accuracy = " << accuracy*100.0/Outputs->d << " %" << endl;
+  int numNegHatCorrect = 0;
+  double tnr = 0;
+  for(int i = 0; i < Outputs->d;i++) {
+    numNegHatCorrect += (Outputs->vec[i] + TrueLabels->vec[i] == -2);
+  }
+  int numNegTrue = 0;
+  for(int i = 0; i < TrueLabels->d;i++) {
+    numNegTrue += (TrueLabels->vec[i] == -1);
+  }
+  tnr = (double)(numNegHatCorrect) / (double)(numNegTrue);
+
+  int numPosHatCorrect = 0;
+  double tpr = 0;
+  for(int i = 0; i < Outputs->d;i++) {
+    numPosHatCorrect += (Outputs->vec[i] + TrueLabels->vec[i] == 2);
+  }
+  int numPosTrue = 0;
+  for(int i = 0; i < TrueLabels->d;i++) {
+    numNegTrue += (TrueLabels->vec[i] == 1);
+  }
+  tpr = (double)(numPosHatCorrect) / (double)(numPosTrue);
+  cout << "AM = " << 0.5*(tpr + tnr) << " %" << endl;
+  cout << "GM = " << sqrt(tpr * tnr) << " %" << endl;
 }
 
 /********************** UTILITIES ********************/
