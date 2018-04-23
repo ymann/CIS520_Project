@@ -31,7 +31,7 @@ X_train = scaler.transform(X_train)
 
 X_test = scaler.transform(X_test)  
 
-clf = mlp(solver='adam', hidden_layer_sizes=(30, 30), alpha=.00001)
+clf = mlp(solver='adam', hidden_layer_sizes=(30, 30, 30), alpha=.001)
 
 clf.fit(X_train, y_train)                         
 predictions = clf.predict(X_test)
