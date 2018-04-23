@@ -1,5 +1,7 @@
-X = allgundata_em; % data set
+X = allgundata; % data set
 acc_super = 0;
+acc_fnr = 0;
+acc_fpr = 0;
 for j = 1:5
     data = X(cv.training(j), 4:15);
     d = size(data, 2);
@@ -62,6 +64,8 @@ for j = 1:5
     
     x_test = X(cv.test(j), 4:15);
     y_test = allgundata(cv.test(j), 16);
+    x_test = x_test(y_test ~= -1, :);
+    y_test = y_test(y_test ~= -1, :);
     
     log_ratio = (0.5 * x_test .* (x_test + 1) ) * (log(theta_neg_pos./theta_pos_pos))' ...
             + (0.5 * x_test.* (x_test - 1) ) * (log((theta_neg_mis)./(1-theta_pos_mis)))' ...
@@ -71,9 +75,14 @@ for j = 1:5
     
     m_test = size(y_test, 1);
     y_test_pred = q_test > 0.5;
-    d = y_test((y_test_pred - y_test) == 0, :);
     acc_super = acc_super + size(y_test((y_test_pred - y_test) == 0, :), 1)/size(y_test(y_test ~= -1, :), 1); 
     
-    
+    acc_fnr = acc_fnr + size(y_test((y_test_pred - y_test) == -1, :), 1)/size(y_test(y_test == 1, :), 1);
+    acc_fpr = acc_fpr + size(y_test((y_test_pred - y_test) == 1, :), 1)/size(y_test(y_test == 0, :), 1);
 end
 em_cv_error = 1 - (acc_super / 5);
+em_tnr = 1 - acc_fnr / 5;
+em_tpr = 1 - acc_fpr / 5;
+
+em_am = (em_tnr + em_tpr) / 2;
+em_gm = sqrt(em_tnr * em_tpr);
